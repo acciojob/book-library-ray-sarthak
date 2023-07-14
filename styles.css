@@ -22,7 +22,7 @@ hr{
 	width:800px
 }
 .btn{
-	background-color: #2ecc71;
+	background-color: rgb(46, 204, 113);
 	text-align:center;
 	width:700px;
 	padding-left: 5px;
@@ -36,4 +36,5 @@ hr{
 }
 .author{
 	color:#777777;
+	background-color:rgb(46, 204, 113);
 }
